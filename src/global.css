@@ -1,0 +1,41 @@
+@media (max-width: 768px) {
+  .ant-form-item {
+    margin-bottom: 12px;
+  }
+
+  .ant-card-head-title {
+    font-size: 16px;
+  }
+
+  .ant-tabs-tab {
+    padding: 8px 12px !important;
+  }
+
+  .ant-table {
+    font-size: 14px;
+  }
+
+  .ant-statistic-title {
+    font-size: 14px;
+  }
+
+  .ant-statistic-content {
+    font-size: 20px;
+  }
+
+  .ant-card-body {
+    padding: 12px !important;
+  }
+
+  .ant-collapse-ghost > .ant-collapse-item > .ant-collapse-content {
+    padding: 4px 0;
+  }
+}
+
+.ant-collapse-ghost > .ant-collapse-item {
+  border-bottom: none !important;
+}
+
+.ant-collapse-ghost > .ant-collapse-item > .ant-collapse-content {
+  padding: 8px 0;
+}
